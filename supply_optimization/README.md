@@ -1,6 +1,6 @@
 # Ride-Hailing Demand Prediction Task
 
-![Alt text](Designer.jpg)
+![Description of the image](adhoc_projects/supply_optimization/Designer.jpg)
 
 ## Problem
 
